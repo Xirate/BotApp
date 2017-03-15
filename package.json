@@ -1,0 +1,23 @@
+{
+  "name": "botapp",
+  "version": "1.0.0",
+  "description": "Bot application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xirate/BotApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xirate/BotApp/issues"
+  },
+  "homepage": "https://github.com/Xirate/BotApp#readme",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  }
+}
